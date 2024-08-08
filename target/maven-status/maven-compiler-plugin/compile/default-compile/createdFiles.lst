@@ -1,0 +1,4 @@
+com\banggoodservice\controller\RestController.class
+com\banggoodservice\models\GetTokenResponse.class
+com\banggoodservice\BanggoodServiceApplication.class
+com\banggoodservice\models\GetTokenRequest.class
